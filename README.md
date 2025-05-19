@@ -18,4 +18,11 @@ yarn workspace chat-bot-rtvi-web-sandbox build
 yarn workspace chat-bot-rtvi-web-sandbox run dev
 ```
 
+## publish lib
+```bash
+cd chat-bot-rtvi-client && npm publish
+cd chat-bot-rtvi-daily-client && npm publish
+cd chat-bot-rtvi-web-react && npm publish
+```
+
 
